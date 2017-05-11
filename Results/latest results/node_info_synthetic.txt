@@ -1,0 +1,32 @@
+n02 - corner
+n03 - crescentFullmoon
+n04 - gingerBreadman
+n05 - half_kernel
+n06 - outliers
+n07 - two_spirals
+
+n08 - corner - d0.5
+n09 - crescentFullmoon - d0.5
+n10 - gingerBreadman - d0.5
+n11 - half_kernel - d0.5
+n12 - outliers - d0.5
+n14 - two_spirals - d0.5
+
+n02 - gingerBreadman
+n03 - outliers
+n04 - outliers - d0.5
+n05 - half_kernel
+n06 - two_spirals
+n07 - corner - d2
+n08 - crescentFullmoon - d2
+n09 - gingerBreadman - d2
+n10 - half_kernel - d2
+n11 - outliers - d2
+n12 - two_spirals - d2
+
+n02 - corner - d2
+n03 - outliers - d2
+n04 - outliers
+n05 - gingerBreadman
+
+all in different screens

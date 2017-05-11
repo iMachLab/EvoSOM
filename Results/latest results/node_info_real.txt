@@ -1,0 +1,16 @@
+n02 - glass - d0.5
+n03 - iris - d0.5
+n04 - sonar - d0.5
+n05 - wine - d0.5
+n06 - car - d0.5
+n07 - abalone - d0.5
+
+n08 - abalone - d2
+n09 - car - d2
+n10 - iris - d2
+n11 - sonar - d2
+n12 - wine - d2
+n14 - glass - d2
+
+
+all in different screens

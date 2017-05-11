@@ -1,0 +1,9 @@
+n07 - car_evaluation - Only this is running as of 2:44PM || Ran completely till generation 14 got finished 
+n06 - wine (done) - Ran completely till generation 14 got finished - killed screen @ 2:40 PM
+n05 - glass (done) - Eval stopped by termination criteria after Generation 4 got finished - killed screen @ 2:40 PM
+n04 - abalone (done) - Eval stopped by termination criteria after Generation 5 got finished - killed screen @ 2:40 PM
+n02 - iris (done) - Eval stopped by termination criteria after Generation 7 got finished - killed screen @ 2:40 PM
+n03 - sonar (done) - Ran completely till generation 14 got finished - killed screen @ 2:40 PM
+
+n02, and n03 - single screen
+others - different screens

@@ -1,0 +1,8 @@
+n02 - iris - 11:43 AM - 6.3.17
+n03 - abalone - 11:48 AM - 6.3.17
+n04 - car_eval - 11:49 AM - 6.3.17
+n05 - glass - 11:53 AM - 6.3.17
+n07 - sonar - 11:56 AM - 6.3.17
+n06 - wine - 11:58 AM - 6.3.17
+
+all in different screens
