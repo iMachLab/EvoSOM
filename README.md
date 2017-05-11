@@ -3,13 +3,14 @@
 ## Dependencies-:
 
   1. Python 2.7
-  2. Matplotlib
-  3. Numpy
-  4. Pandas
-  5. Pyevolve
-  6. Pickle
-  7. Multiprocessing
+  2. matplotlib==2.0.0
+  3. numpy==1.12.1
+  4. pandas==0.18.1
+  5. Pyevolve==0.6rc1
   
+## Setup-:
+
+	1. Python2.7 must be pre-installed. 
 
 ## Data sets used for testing our Model-:
 
