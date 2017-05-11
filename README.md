@@ -1,19 +1,27 @@
 # BestSOM
 
-## Dependencies-:
+## Requirements-:
+```
+1. Python2.7
+```
 
-  1. Python 2.7
+## Dependencies-:
+```
+  1. Pyevolve==0.6rc1
   2. matplotlib==2.0.0
   3. numpy==1.12.1
   4. pandas==0.18.1
-  5. Pyevolve==0.6rc1
-  
+```  
 ## Setup-:
-
-	1. Python2.7 must be pre-installed. 
-
+```
+	1. pip install -r requirements.txt
+	2. Edit the params : datasetpath, number_of_columns_csv, features, dataset_name, type_of_problem, data
+	(Change data numpy array, so that, data contains only the relevant features, without the tags and indices)
+	3. python train.py > dataset.log
+	4. Results will be present in dataset_name folder in cwd, along with final stats in dataset.log file. 
+```
 ## Data sets used for testing our Model-:
-
+```
 * Commercial Data sets used-:
 	 
    1. Wine
@@ -32,5 +40,5 @@
    5. Outliers
    6. Two Spirals 
    
-
+```
 
